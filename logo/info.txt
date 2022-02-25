@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: ProzaLibre-ExtraBold
+font link: https://fonts.google.com/specimen/Proza+Libre
+font author: Jasper de Waard
+font author site: http://bureauroffa.com/about-proza-libre
+Slogan Font: Fanwood Text.otf
+
+icon designer: Iconika
+icon designer link: /iconika
+        
+{"bg":"#161C60","icon":"#25BDD6","font":"#25BDD6","slogan":"#39d1ea"}
+      

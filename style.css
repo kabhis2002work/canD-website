@@ -1,0 +1,72 @@
+@media screen and (min-width: 760px) {
+    .container{
+        align-items: center;
+        align-content: center;
+        text-align: center;
+        margin-bottom: 0%;
+    }
+    .img-info{
+        margin: 5% 5%;
+        text-align: center;
+        justify-content: center;
+    }
+    .nfts{
+        
+        text-align: center;
+        justify-content: center;
+    }
+    .content-name{
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+        border-radius: 10px;
+        margin: 10px 10%;
+        border-style: solid;
+        border-color: white; 
+    }
+    .contact-info{
+        background-color: black;
+        text-align: center;
+        padding: 10px;
+    }
+    h3{
+        font-family: 'Montserrat', sans-serif;
+    }
+}
+@media screen and (max-width: 680px) {
+    .container{
+        align-items: center;
+        align-content: center;
+        text-align: center;
+    }
+    .img-info{
+        margin: 5% 0;
+        text-align: center;
+        justify-content: center;
+    }
+    .nfts{
+        
+        text-align: center;
+        justify-content: center;
+    }
+    .content-name{
+        padding: 5px;
+        display: flex;
+        justify-content: center;
+        border-radius: 10px;
+        margin: 5px;
+        border-style: solid;
+        border-color: white;
+    }
+    .contact-info{
+        background-color: black;
+        text-align: center;
+    }
+    h3{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 15px;
+    }
+}
+
+
+
